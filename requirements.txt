@@ -1,0 +1,6 @@
+PySide6
+python-pptx
+openai
+python-dotenv
+requests
+PyInstaller
